@@ -3,4 +3,4 @@
 
  Primeira alteração no VSC
 
- Esta linha alterei direto nosite do github
+ Esta linha alterei direto no site do github
